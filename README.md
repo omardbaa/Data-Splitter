@@ -49,7 +49,3 @@ Suppose you have a large CSV file named `cleaned_repositoriesV2.csv` that contai
 
 - Make sure the CSV file has a header in the first row.
 - Before running the script, ensure that your SQL Server is running and accessible from your Python environment.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
